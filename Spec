@@ -1,0 +1,78 @@
+Idea:
+App with health stats in a generalised format
+Approximations of how far a person has walked
+Average amount needed to be healthy
+Stats for screen time / time on phone
+Health “streak” - How many days in a row a person has met the health quota
+Ability to lock users out of their phone until they meet a health quota - walked a certain amount
+Widget / Interactive Ability
+Shows amount currently walked / how much more needed
+Encouragement / shame - Notifications + home screen widgets (can show various useful things like health progress / quota, weather / encouragement to step outside)
+Interaction with weather API / user location / AI
+Inclusion of advice / weather to 
+Use of location to track distance walked / time outside
+POSSIBLE INCLUSION OF PARASOCIAL AI - USE SOME SORT OF PERSONA AND REPLY IN THAT “CHARACTER” THROUGH CHAT GPT PROMPTS
+REWARDS SYSTEM IS TO GET ACCESS TO THE WAIFUGPT
+In the pitch, say expansion to more characters, more personas
+CUTS YOU OFF IF YOU FAIL YOUR STREAK
+Function Designs/Data Structures/Types:
+
+Def getDayScreenTime():
+	
+
+
+
+
+
+
+
+UI
+Frontend (Daniel):
+Priorities:
+Lock screen UI (i.e. message depending on internet hygiene, bedtime usage, specific message relating on the content of phone usage i.e. social media, streak)
+Make sure UI is good UI so if you feel like a message has to be presented differently, do it. The list is just content that is suited to be on there. 
+
+Widget
+
+Home Page
+Progress (goal system):
+Hours successfully worked towards preset goals
+Screen time -> application usage (entertainment, work):
+Display method: pie chart, bar graph
+Lifestyle Recommendations
+Popups:
+Streak.
+Encouragement.
+Shame (hilarious)
+Milestone settings
+General settings
+
+Lock Screen
+
+
+Widget
+
+
+Notification
+
+
+
+Target platform: phones/mobile devices
+Duolingo but for anti internet degeneracy
+Locked out of phone until you go for a walk
+Clearly phones 
+Feature of streaks of internet hygiene
+Partner verification (can’t uninstall without your well meaning friend to acknowledge)
+   Roles:
+
+(I feel like this is not needed)
+
+Implementation:
+Home Page Widgets (i.e. connect with weather app -> “Good day for a walk today”
+POSSIBLE AI usage - motivation / comments
+
+Backend (Ethan, Eric):
+APIs: Weather doc, Mobile OS, Location
+Python
+Frameworks: Kivy
+
